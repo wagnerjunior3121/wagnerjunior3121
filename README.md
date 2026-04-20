@@ -8,6 +8,7 @@ I'm a Full-Stack Developer and SAP ABAP Consultant focused on building scalable 
 🎓 Studying Software Engineering at Estácio  
 
 💡 Passionate about technology, problem-solving, and process optimization.
+
 ⚙️ Experience with automation, internal systems, and process improvements using JavaScript, Node.js, and VBA.
 
 ## 🌐 Social
