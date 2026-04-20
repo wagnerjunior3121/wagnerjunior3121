@@ -1,11 +1,14 @@
 # Hi, I'm Wagner Junior! 👋🏻
 
-My name is *Wagner Junior* and I'm Full-Stack Developer and SAP ABAP Consulter.  
-🚀 23 years old.  
-🏠 I'm from Lins - São Paulo.  
-🎓 Graduated in Administration at Unisalesiano Lins.  
-🎓 Studying Software Engineering at Estácio.
+I'm a Full-Stack Developer and SAP ABAP Consultant focused on building scalable systems, automating processes, and improving business efficiency.
 
+🚀 23 years old  
+🏠 From Lins - São Paulo, Brazil  
+🎓 Graduated in Administration at Unisalesiano Lins  
+🎓 Studying Software Engineering at Estácio  
+
+💡 Passionate about technology, problem-solving, and process optimization.
+⚙️ Experience with automation, internal systems, and process improvements using JavaScript, Node.js, and VBA.
 
 ## 🌐 Social
 
