@@ -1,6 +1,6 @@
 # Hi, I'm Wagner Junior! 👋🏻
 
-My name is *Wagner Junior* and I'm Full-Stack Developer and SAP Abap Consulter.  
+My name is *Wagner Junior* and I'm Full-Stack Developer and SAP ABAP Consulter.  
 🚀 23 years old.  
 🏠 I'm from Lins - São Paulo.  
 🎓 Graduated in Administration at Unisalesiano Lins.  
