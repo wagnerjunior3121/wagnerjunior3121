@@ -21,7 +21,7 @@ I'm a Full-Stack Developer and SAP ABAP Consultant focused on building scalable 
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,vitest,next,tailwind,prisma,nodejs,nest,postgresql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,vitest,next,tailwind,prisma,nodejs,nest,postgresql,redis,firebase)](https://skillicons.dev)
 
 
 ## 🛠️ Tools
@@ -29,9 +29,3 @@ I'm a Full-Stack Developer and SAP ABAP Consultant focused on building scalable 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,postman,aws,linux)](https://skillicons.dev)
 
 <br />
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wagnerjunior3121&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=true" width="420" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wagnerjunior3121&locale=pt-br&layout=compact&langs_count=6&hide_progress=true&theme=dracula&hide_border=true" width="320" />
-</p>
